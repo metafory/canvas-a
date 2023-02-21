@@ -41,7 +41,7 @@ export function BetaNotification() {
       }}
     >
       <a
-        href="https://beta.tldraw.com"
+        href="https://metafory.com/"
         style={{
           height: '48px',
           display: 'flex',
@@ -51,9 +51,9 @@ export function BetaNotification() {
           fontSize: 'inherit',
           color: 'inherit',
         }}
-        title="Try the new tldraw at beta.tldraw.com"
+        title="Visit metafory.com / Help us grow!"
       >
-        Try the new tldraw!
+        Visit metafory.com / Help us grow!
       </a>
       <button
         style={{
